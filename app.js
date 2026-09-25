@@ -8,7 +8,7 @@
    4. Router + Views     – hash router and screen renderers
    5. Actions / Forms    – delegated event handlers
    ===================================================================== */
-const LOGO={full:'assets/logo-full.webp',emb:'assets/logo-emblem.webp',word:'assets/logo-wordmark.webp'};
+const LOGO={full:'logo-full.webp',emb:'logo-emblem.webp',word:'logo-wordmark.webp'};
 const CONFIG={brand:'TEACTON',tagline:'TECHNOLOGY • PRECISION • RELIABILITY',mockOtp:'123456',otpLength:6,resendSeconds:30,
   demoPhone:'9876543210',serviceHours:{start:7,end:22},supportHours:'8:00 AM – 8:00 PM',
   limits:{photos:5,photoMB:10,videoMB:60,desc:500}};
